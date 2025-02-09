@@ -1,13 +1,3 @@
-''''
-Nardeen Raafat 231001098
-Philopater Ayman 231001131
-Abdulrhman Nader 231000424
-Mohamed Atef 231001404
-course code(CSCI102)-2023FALL
-Lec-05
-Lab-05B
-''' 
-
 import pygame,sys
 from game import Game
 from colors import Colors
